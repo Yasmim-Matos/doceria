@@ -23,6 +23,10 @@ Projeto voltado para relembrar conceitos de CSS3 e HTML5 desenvolvido por [Yasmi
 <details>
   <summary markdown="span"><strong> Tela do Projeto</strong></summary><br />
 
-![Tela Completa](./img/doceria.gif)
+  ![Tela 1](./img/screen/Tela1.png)
+  ![Tela 2](./img/screen/Tela2.png)
+  ![Tela 3](./img/screen/Tela3.png)
+  ![Tela 4](./img/screen/Tela4.png)
+  ![Tela 5](./img/screen/Tela5.png)
 
 </details>
