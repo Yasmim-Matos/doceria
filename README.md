@@ -18,3 +18,11 @@ Projeto voltado para relembrar conceitos de CSS3 e HTML5 desenvolvido por [Yasmi
 * HTML5
 
 </details>
+
+## :desktop_computer: Demonstração do Projeto
+<details>
+  <summary markdown="span"><strong> Tela do Projeto</strong></summary><br />
+
+![Tela Completa](./img/doceria.gif)
+
+</details>
